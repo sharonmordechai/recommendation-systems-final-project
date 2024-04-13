@@ -1,5 +1,5 @@
 # Recommendation Systems -  Final Project
-
+ 
 ## Getting Started
 **Recommendation algorithms** tend to have large input and output dimensionalities that dominate their overall size.
 This makes them difficult to train, due to the limited memory of graphical processing units, and difficult to deploy on mobile devices with limited hardware.
