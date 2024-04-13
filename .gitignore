@@ -1,0 +1,28 @@
+*~
+*#*
+
+
+#compiled python
+*.pyc
+
+# cache files
+*.cache
+.pytest_cache
+**/.ipynb_checkpoints/*
+
+# packaging
+*egg*
+*build*
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+tags
+
+# MovieLens data directory
+**/data/*
+
+# VS Code
+.vscode/

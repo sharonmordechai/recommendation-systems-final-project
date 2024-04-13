@@ -1,0 +1,34 @@
+name: recommandation-systems
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - graphviz
+  - ipython
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - networkx
+  - nltk
+  - numpy
+  - pandas
+  - pillow
+  - pytest
+  - pytest-cov
+  - pytest-xdist
+  - python=3.8.6
+  - pytorch=1.6.0
+  - scikit-learn
+  - scipy
+  - torchtext
+  - torchvision
+  - tqdm
+  - pip
+  - pip:
+      - cityhash==0.4.0.post1
+      - future==0.18.2
+      - h5py==3.6.0
+      - metrohash==0.3.0.post0
+      - xxhash==2.0.2
